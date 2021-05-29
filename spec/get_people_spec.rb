@@ -9,7 +9,7 @@ RSpec.describe "/api/people/" do
       expect(response.body['count']).to eq 82
     end
 
-    context "when seraching for individuals taller than 200" do
+    context "when searching for individuals taller than 200" do
       it "successfully returns all applicable individuals" do
         known_tall_folks = ["Darth Vader",
                             "Chewbacca",
