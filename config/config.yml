@@ -1,0 +1,4 @@
+production:
+  base_api_url: https://swapi.dev/
+staging:
+  base_api_url: # this is not the environment you are looking for *jedi wave*
