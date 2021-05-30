@@ -9,7 +9,7 @@ module ApiHelpers
     people = []
     while response.body['next'] || response.body['previous']
       puts "Checking page #{response.body['next']}"
-      heights = response.body['results'].each do |hash|
+      response.body['results'].each do |hash|
         if hash["height"].to_i > height
           puts hash['height']
           puts hash['name']
