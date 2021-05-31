@@ -4,7 +4,7 @@
 
 I decided to stick with Ruby because I felt I could best showcase my capabilities and truthfully, most quickly, produce quality results. 
 
-A Sarlacc pit fall I ran into was dealing with interating through pages of an API request. That was a learning experience. I had to tap into the dark side.
+A Sarlacc pit fall I ran into was dealing with iterating through pages of an API request. That was a learning experience. I had to tap into the dark side.
 
 I had the higher ground on setting up the framework. It was a breeze as I've used this same framework at 3 companies now.
 
