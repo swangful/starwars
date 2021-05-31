@@ -2,7 +2,7 @@
 
 ![](https://media0.giphy.com/media/CuMiNoTRz2bYc/giphy.gif)
 
-I decided to stick with Ruby because I felt I could best showcase my capabilities and truthfully, most quickly, produce quality results. 
+POC before attempting C#.
 
 A Sarlacc pit fall I ran into was dealing with iterating through pages of an API request. That was a learning experience. I had to tap into the dark side.
 
